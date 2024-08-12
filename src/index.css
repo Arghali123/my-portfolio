@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: rgb(34,165,192);
+  background: linear-gradient(90deg, rgba(34,165,192,1) 4%, rgba(74,9,121,0.5076155462184874) 85%);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
